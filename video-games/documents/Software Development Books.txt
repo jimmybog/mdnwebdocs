@@ -1,0 +1,23 @@
+Best Books for Software Development:
+
+Soft Skills: A Developer's Life Manual by John Sonmez	
+
+Web Design with HTML, CSS, JavaScript and jQuery Set by Jon Duckett	
+
+HTML and CSS: Design and Build Websites by Jon Duckett	
+
+Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics by Jennifer Niederst Robbins	
+
+Learning Web App Development by Semmy Purewal	
+
+Mastering Sublime Text by Dan Peleg	
+
+Pragmatic Guide to Git by Travis Swicegood	
+
+Pro Git by Scott Chacon and Ben Straub	
+
+JavaScript: The Definitive Guide: Activate Your Web Pages by David Flanagan
+	
+JavaScript: The Good Parts by Douglas Crockford	
+
+JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett

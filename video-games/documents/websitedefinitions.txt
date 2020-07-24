@@ -1,0 +1,26 @@
+python -m http.server
+python3
+py -3
+
+localhost:8000
+
+pac man
+
+Video Games
+
+Pac man is one of the earliest video games released in the early 80's
+
+It was produced by Taito which is a Japanese video game manufacturer
+
+white background	#FFFFFF
+
+Blue colour text	#1C50DD
+
+open sans
+
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
+
+font-family: 'Open Sans', sans-serif;
+
+
+
