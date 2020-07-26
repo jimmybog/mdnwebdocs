@@ -1,0 +1,13 @@
+StackOverflow for Help & Questions
+
+jsfiddle.net  write online code and view it
+
+Codepen.IO	as above
+
+css-trick.com
+
+canIuse.com		different browser syntax text
+
+validator.w3.org	this is a validator
+
+
