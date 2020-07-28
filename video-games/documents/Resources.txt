@@ -11,3 +11,6 @@ canIuse.com		different browser syntax text
 validator.w3.org	this is a validator
 
 
+git add .
+git commit 
+git push

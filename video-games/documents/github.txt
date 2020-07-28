@@ -1,2 +1,5 @@
 Mexico05$
 Github
+
+browser-sync start --server --directory --files "*"
+
